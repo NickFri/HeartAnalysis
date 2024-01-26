@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "HeartPHI master", "LoPhi Heart App\HeartPHI master.vbproj", "{A1A76297-E5ED-4E1C-A3C6-DB1A80D4A23C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1A76297-E5ED-4E1C-A3C6-DB1A80D4A23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A76297-E5ED-4E1C-A3C6-DB1A80D4A23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A76297-E5ED-4E1C-A3C6-DB1A80D4A23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A76297-E5ED-4E1C-A3C6-DB1A80D4A23C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD10903-18E5-4F53-82BD-FD828308E3FB}
+	EndGlobalSection
+EndGlobal
